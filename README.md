@@ -11,10 +11,11 @@ This is a simple Solana client project that connects to the Solana blockchain, r
 
 ### **1. Clone the repository**  
 ```bash
-git clone https://github.com/daffulan/my-solana-project.git
+git clone https://github.com/daffhaidar/my-solana-project.git
 cd my-solana-project
 
-### **2. Install dependencies**
+#### **2. Install dependencies**
+```bash
 For Node.js environment:
 yarn install
 or
