@@ -14,7 +14,7 @@ This is a simple Solana client project that connects to the Solana blockchain, r
 git clone https://github.com/daffulan/my-solana-project.git
 cd my-solana-project
 
-2. Install dependencies
+### **2. Install dependencies**
 For Node.js environment:
 yarn install
 or
